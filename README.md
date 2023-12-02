@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Financial Organizer:** Keep track of your income, expenses, and overall financial health. :warning: WIP :warning:
+- **Financial Organizer (WIP):** Keep track of your income, expenses, and overall financial health.
 
 ## Getting Started
 
