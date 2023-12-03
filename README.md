@@ -1,12 +1,8 @@
-# Tudo Em Ordem
+# Turborepo example
 
 ## Overview
 
-"Tudo Em Ordem" is a comprehensive life organizer app designed to help you seamlessly manage various aspects of your life, including finances, tasks, and calendar events. Here you can have essential information to get you started.
-
-## Features
-
-- **Financial Organizer (WIP):** Keep track of your income, expenses, and overall financial health.
+This is a turborepo app example that you can consulte and use in your projects.
 
 ## Getting Started
 
